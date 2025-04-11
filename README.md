@@ -169,4 +169,8 @@ This repository implements an end-to-end pipeline for 3D reconstruction using st
 Each step in this pipeline is grounded in the principles of geometric vision and image processing, from feature detection and camera calibration to 3D reconstruction.
 
 ---
-
+## Dataset and Requirements
+- **Python:** Version 2.0 or above  
+- **Dependencies:**  
+  - OpenCV  
+  - NumPy
